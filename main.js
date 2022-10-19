@@ -20,3 +20,4 @@ function exitTwo(){
     modal.close()
 }
 
+console.log("atualização cards")
