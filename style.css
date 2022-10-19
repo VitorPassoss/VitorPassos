@@ -243,7 +243,7 @@ body{
         position: relative;
         width: 100%;
         height: 60%;
-        background-image: url(./src/Captura\ de\ tela\ de\ 2022-10-17\ 23-48-34.png);
+        background-image: url(./src/Captura\ de\ tela\ de\ 2022-10-12\ 19-23-27.png);
         background-repeat: no-repeat; 
         background-size: cover;
         background-position-x: 40%;
@@ -271,7 +271,14 @@ body{
         flex-direction: column;
         justify-content: center;
         align-items: center;
+        margin-top: 20px !important;
 
+      }
+
+      .center-div-proj{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
       }
 
       /* From uiverse.io by @namecho */
@@ -513,7 +520,9 @@ p{
 .tittle-card{
     color:#FF0043;
     text-align: center;
-    padding-top: 10px;
+    padding-top: 5px;
+    padding-bottom: 10px;
+    font-size: 20px;
 }
 .tittle-card2{
     color:#FF0043;
@@ -876,7 +885,7 @@ p{
             position: relative;
             width: 100%;
             height: 60%;
-            background-image: url(/src/Captura\ de\ tela\ de\ 2022-10-17\ 23-48-34.png);
+            background-image: url(./src/Captura\ de\ tela\ de\ 2022-10-12\ 19-23-27.png);
             background-repeat: no-repeat; 
             background-size: cover;
             background-position-x: 40%;
@@ -1430,7 +1439,7 @@ p{
             position: relative;
             width: 100%;
             height: 60%;
-            background-image: url(/src/Screenshot.png);
+            background-image: url(./src/Screenshot.png);
             background-repeat: no-repeat; 
             background-size: cover;
             background-position: 50%;
@@ -1454,7 +1463,7 @@ p{
             position: relative;
             width: 100%;
             height: 60%;
-            background-image: url(/src/Captura\ de\ tela\ de\ 2022-10-17\ 23-43-39.png);
+            background-image: url(./src/Captura\ de\ tela\ de\ 2022-10-17\ 23-43-39.png);
             background-repeat: no-repeat; 
             background-size: cover;
             background-position: 50%;
@@ -1478,7 +1487,7 @@ p{
             position: relative;
             width: 100%;
             height: 60%;
-            background-image: url(/src/Captura\ de\ tela\ de\ 2022-10-17\ 23-48-34.png);
+            background-image: url(./src/Captura\ de\ tela\ de\ 2022-10-12\ 19-23-27.png);
             background-repeat: no-repeat; 
             background-size: cover;
             background-position-x: 40%;
