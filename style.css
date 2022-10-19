@@ -1753,18 +1753,27 @@ p{
         margin: 0px !important;
     }
     
+    .center-div .button{
+        font-size: 10px;
+    }
     
     .tittle-card{
         color:#FF0043;
         text-align: center;
-        padding-top: 10px;
+        padding-top: 0px !important;
+        padding-bottom: 0px !important;
+        font-size: 12px;
     }
     .tittle-card2{
         color:#FF0043;
         text-align: center;
-        padding-top: 10px;
-        font-size: 14px;
-        padding-bottom: 5px;
+        padding-top: 0px !important;
+        padding-bottom: 0px !important;
+        font-size: 12px;
+    }
+
+    .center-div-proj .button{
+        font-size: 10px;
     }
     
     .about-me{
