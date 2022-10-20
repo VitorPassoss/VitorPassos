@@ -378,13 +378,19 @@ body{
  }
 }
 
+.btn-modal{
+    width: 70% !important;
+}
 
-
+.bi-code{
+    font-size: 20px;
+    color: white;
+}
 
 
 
 .modaldiv{
-    width: 40%;
+    width: 30%;
     height: 450px;
     background-color: #0d1117 ;
     margin: 0 auto;
@@ -399,7 +405,7 @@ body{
 }
 
 .modaldiv1{
-    width: 40%;
+    width: 30%;
     height: 450px;
     background-color: #0d1117 ;
     margin: 0 auto;
@@ -420,7 +426,7 @@ body{
 
 .text-modal{
     margin-top: 15px;
-    font-size: 15px;
+    font-size: 19px;
 }
 
 .title-modal{
@@ -637,7 +643,21 @@ p{
     display: none !important;
 }
 .tech{
-    font-size: 15px !important;
+    font-size: 22px !important;
+}
+
+.bgapp a {
+    text-decoration: none !important;
+    color: #FF0043 !important;
+}
+
+.bg2app a {
+    text-decoration: none !important;
+    color:#FF0043 !important;
+}
+
+footer{
+    color: white !important;
 }
 
 @media (min-width:1350px) and (max-width: 1650px){
@@ -1753,27 +1773,19 @@ p{
         margin: 0px !important;
     }
     
-    .center-div .button{
-        font-size: 10px;
-    }
     
     .tittle-card{
         color:#FF0043;
         text-align: center;
-        padding-top: 0px !important;
-        padding-bottom: 0px !important;
+        padding-top: 0px;
         font-size: 12px;
     }
     .tittle-card2{
         color:#FF0043;
         text-align: center;
-        padding-top: 0px !important;
-        padding-bottom: 0px !important;
+        padding-top: 0px;
+        padding-bottom: 5px;
         font-size: 12px;
-    }
-
-    .center-div-proj .button{
-        font-size: 10px;
     }
     
     .about-me{
