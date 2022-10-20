@@ -391,7 +391,6 @@ body{
 
 .modaldiv{
     width: 30%;
-    height: 450px;
     background-color: #0d1117 ;
     margin: 0 auto;
     position: fixed;
@@ -400,13 +399,13 @@ body{
     color: white;
     border: none;
     box-shadow: 5px 5px 10px black;
-    padding: 20px;
+    padding: 40px !important;
     overflow:auto; 
 }
 
 .modaldiv1{
     width: 30%;
-    height: 450px;
+    padding: 40px !important;
     background-color: #0d1117 ;
     margin: 0 auto;
     position: fixed;
@@ -415,7 +414,20 @@ body{
     color: white;
     border: none;
     box-shadow: 5px 5px 10px black;
-    padding: 20px;
+}
+
+.modaldiv2{
+    width: 30%;
+
+    background-color: #0d1117 ;
+    margin: 0 auto;
+    position: fixed;
+    top: 20%;
+    border-radius: 25px;
+    color: white;
+    border: none;
+    box-shadow: 5px 5px 10px black;
+    padding: 40px !important;
 }
 
 
